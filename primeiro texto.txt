@@ -1,2 +1,2 @@
-primeiro texto + 2 + A
+primeiro texto
 
